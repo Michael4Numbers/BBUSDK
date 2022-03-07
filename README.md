@@ -9,4 +9,4 @@ How to Use:
 4. Open BillieBustUp.uproject
 5. Happy modding!
 
-Join the [Discord](https://discord.com/invite/bCw8HRX85r "Join Server") and share your mods!
+Join the Billie Bust Up Modding [Discord](https://discord.com/invite/bCw8HRX85r "Join Server") and share your mods!
